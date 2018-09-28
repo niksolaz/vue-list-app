@@ -122,3 +122,8 @@ body {
  .priority {
     color: #DE751F;
 }
+.select{
+    background: #ffffff;
+    color:#B8C2CC;
+    margin-right:25px;
+}
